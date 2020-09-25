@@ -10,8 +10,8 @@ Please update the `bootstrap.yml` file with the uri of spring cloud config serve
 ### Build code
 
 ```bash
-git clone https://github.com/Anurag-30/spring-cloud-config-server-client.git
-cd spring-cloud-config-server-client
+git clone https://github.com/Anurag-30/spring-cloud-config-client.git
+cd spring-cloud-config-client
 mvn clean package
 ```
 
